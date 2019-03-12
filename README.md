@@ -1,9 +1,9 @@
 ```
-git clone git@github.com:aurusov/set_difference.git
-cd set_difference
+git clone git@github.com:aurusov/set-difference.git
+cd set-difference
 mkdir build
 cd build
 cmake ..
 make
-./set_difference
+./set-difference
 ```
