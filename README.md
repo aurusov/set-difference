@@ -4,4 +4,6 @@ cd set_difference
 mkdir build
 cd build
 cmake ..
+make
+./set_difference
 ```
